@@ -1,0 +1,72 @@
+//  create an array of colors (4 colors)
+//  use array methods to add a color to end of that array
+//  user array method to add to the begining of that array
+//  check the length of that array 
+
+// 15 mins 
+
+// const colors = ["red","blue","green","pink"]
+
+// let val;
+
+// val = colors.push("white");
+// val = colors.unshift("purple");
+
+// val = colors.length;
+
+// console.log(val);
+
+
+
+//create an object with 3 properties 
+//print in console the value of each property 
+
+// 5mins
+
+// const person = {
+//     firstName : "Harry",
+//     lastName : "Potter",
+//     age : "19"
+// };
+
+// console.log(person);
+
+
+//create an array of colors (4colors)
+//loop this array 
+
+// 10mins
+
+// const colors = ["red","blue","green","pink"]
+
+// for (let i =0; i < colors.length ; i++){
+//     console.log(i+1, colors[i]);
+// }
+
+
+
+// declare a function to receive 2 numbers and add them ,
+// make sure to pass default values as well 
+
+// function add_2_num(a=1,b=2){
+//     return a+b
+// }
+
+// let a_num = add_2_num(1,2)
+// console.log(a_num)
+
+
+
+//create an array of objects (3 objs)and each objs (2 prop)
+//loop the array to get access to one of the pro
+
+// const staffs = [
+//     {name : 'Harry', age : 30},
+//     {name : 'Ron', age : 26},
+//     {name : 'Hermione', age : 20}
+// ];
+
+// staffs.forEach(function(i, index){
+//     console.log('Staffs ' + (index+1) + ' : ' + i.name);
+// });
+
